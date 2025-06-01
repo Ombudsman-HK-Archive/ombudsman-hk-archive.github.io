@@ -1,6 +1,13 @@
 ## Direct Investigation&emsp;<span lang="zh-HK">主動調查</span>&emsp;<span lang="zh-CN">主动調查</span>
 
-All direct investigation reports are available in at least one language, except for the first 26 which were published between 1994 and 2000. Of those 26, the executive summaries of 16 are available in at least one language.
+All direct investigation reports are available in at least one language, except for the first 26 which were published between 1994 and 2000. Of those 26, the executive summaries of the 9th, 11th to 16th, and 18th to 26th reports are available in at least one language.
+
+The table below only links to documents available in the Wayback Machine. Separately, the full scans of annual reports at [Digital Repository@HKUL](https://digitalrepository.lib.hku.hk/catalog/sf26gh848) include summaries of the first 16 direct investigations:
+
+* [7th Annual Report (1994/1995)](https://digitalrepository.lib.hku.hk/catalog/m039sj373): Appendix F: Background and Outcome of Direct Investigation
+* [8th Annual Report (1995/1996)](https://digitalrepository.lib.hku.hk/catalog/959427857): Annex 10: Case Summaries of Direct Investigations
+* [9th Annual Report (1996/1997)](https://digitalrepository.lib.hku.hk/catalog/s465cv11z): Annex 11: Summaries of Direct Investigations
+* [10th Annual Report (1997/1998)](https://digitalrepository.lib.hku.hk/catalog/xw42vp413): Annex 9: Summaries of Direct Investigations
 
 | No. | English | <span lang="zh-HK">繁體中文</span> | <span lang="zh-CN">简体中文</span> |
 | :---: | --- | --- | --- |
@@ -206,6 +213,8 @@ All direct investigation reports are available in at least one language, except 
 | 3   | Accommodation for Foreign Domestic Helpers (December 1995) | <span lang="zh-HK">外地家庭傭工住宿安排 (1995年12月)</span> | <span lang="zh-CN">外地家庭佣工住宿安排 (1995年12月)</span> |
 | 2   | Overcrowding Relief in Public Housing (August 1995)<br><s>Report (PDF)</s>[^2] | <span lang="zh-HK">紓緩公共房屋擠迫居住環境的安排 (1995年8月)<br><s>摘要 (PDF)</s>[^2]</span> | <span lang="zh-CN">纾缓公共房屋挤迫居住环境的安排 (1995年8月)</span> |
 | 1   | Unauthorised Building Works (UBW) (April 1995)<br><s>Report (PDF)</s>[^2] | <span lang="zh-HK">違例建築工程 (1995年4月)<br><s>摘要 (PDF)</s>[^2]</span> | <span lang="zh-CN">违例建筑工程 (1995年4月)</span> |
+
+### Notes
 
 [^1]: Document was not archived in this format but was archived in another format<wbr>
 [^2]: Document was not archived in any format<wbr>
