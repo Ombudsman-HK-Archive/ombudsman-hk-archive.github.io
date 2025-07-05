@@ -22,4 +22,4 @@ This index is provided for informational purposes only and may have inaccuracies
 
 To submit an addition or correction, please [visit the GitHub repository](https://github.com/Ombudsman-HK-Archive/ombudsman-hk-archive.github.io).
 
-Last updated: 2 June 2025
+Last updated: 5 July 2025
