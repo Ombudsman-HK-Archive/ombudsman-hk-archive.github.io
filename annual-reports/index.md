@@ -1,6 +1,6 @@
 ## Annual Reports&emsp;<span lang="zh-HK">年報</span>&emsp;<span lang="zh-CN">年报</span>
 
-The 16th to 36th annual reports are available in full. The 15th annual report is available, but [the table of contents](https://web.archive.org/web/20041206122152/http://www.ombudsman.gov.hk/yr15/ob-report05.html) is an Adobe Flash document. The 14th annual report is available in English and Traditional Chinese, except for the annexes, statistics and snapshots. The webpage summaries for the 8th to 13th annual reports are available in at least one language, but most images were not archived.
+The 16th to 37th annual reports are available in full. The 15th annual report is available, but [the table of contents](https://web.archive.org/web/20041206122152/http://www.ombudsman.gov.hk/yr15/ob-report05.html) is an Adobe Flash document. The 14th annual report is available in English and Traditional Chinese, except for the annexes, statistics and snapshots. The webpage summaries for the 8th to 13th annual reports are available in at least one language, but most images were not archived.
 
 The table below only links to documents available in the Wayback Machine. Separately, [Digital Repository@HKUL](https://digitalrepository.lib.hku.hk/catalog/sf26gh848) has full scans in at least one language of the 1st, 2nd, 6th to 10th, and 12th to 17th annual reports.
 
