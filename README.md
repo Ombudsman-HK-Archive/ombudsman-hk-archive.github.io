@@ -12,7 +12,7 @@
 
 This is an unofficial index of publications from the Office of the Ombudsman, a statutory authority established by the Government of Hong Kong in 1989.
 
-As a public service, their website freely provided about 500 investigation reports, which have been published since 1994.
+As a public service, their website freely provided hundreds of investigation reports, which have been published since 1994.
 
 In 2022 and 2025, they removed many old files from their website. Fortunately, most of them have been saved to Internet Archive’s [Wayback Machine](https://web.archive.org/).
 
